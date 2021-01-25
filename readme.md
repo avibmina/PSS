@@ -97,7 +97,7 @@ div.save('main.css') # creates a .css file with the name passed in.
 But There's a problem. using .save() creates a .css file and writes only one element you styled.
 for example: if you see in example 2, it creates file with the one you styled only. we cannot style another one and save those two styled tags or class or id in one css file.
 
-YEAH.. its hard to understand... once againg saying, try it yourself, you will understand it better.
+YEAH.. its hard to understand... once again saying, try it yourself, you will understand it better.
 
 ---
 
