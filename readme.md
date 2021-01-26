@@ -21,7 +21,7 @@ from pss import PSS
 
 ### Examples:
 
-##### Example 1: Basics Of Usage
+##### Example 1: Writing Styles
 
 ```python
 from pss import PSS
