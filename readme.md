@@ -25,7 +25,7 @@ from pss import PSS
 
 ```python
 from pss import PSS
-# use '_' instead of '-' like in background_color
+# use '_' instead of '-'. eg: 'background-color' to 'background_color'
 h1 = PSS("h1", color="white", background_color="purple")
 h1.preview() # Outputs the css code
 # OR
